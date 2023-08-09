@@ -62,7 +62,7 @@ public class Main {
 			break;
 		}
 		default: {
-
+			System.out.println("Invalid Choice!!!");
 		}
 
 		}
@@ -176,7 +176,7 @@ public class Main {
 			break;
 		}
 		default: {
-
+			System.out.println("Invalid Choice!!!");
 		}
 
 		}
